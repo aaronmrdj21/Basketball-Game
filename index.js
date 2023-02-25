@@ -187,7 +187,7 @@ function draw() {
   ////This makes the players stay still
   player1.velocity.x = 0;
   player2.velocity.x = 0;
-  //This makes
+  //This makes the speed of players
   player1.position.y += player1SpeedY;
   player2.position.y += player2SpeedY;
 
